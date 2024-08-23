@@ -1,0 +1,3 @@
+Use this command to install all the required libraries.
+
+pip install numpy pandas tensorflow scikit-learn transformers matplotlib
